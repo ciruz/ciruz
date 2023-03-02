@@ -1,8 +1,10 @@
-<h3>Hi, I'm Tom 👋</h3>
+<h3>Hey there, I'm Tom 👋</h3>
 
-I'm a Software Developer from Austria, running my own company with my long-term work colleague. In the past 15 years I worked on various websites and projects, mainly with PHP,  MySQL, Laravel, Zend or WordPress. Some of them are smaller ([wiet.at](https://www.wiet.at/)) and some are larger ([gebrauchtwagen.at](https://www.gebrauchtwagen.at/)). 
+a software developer from Austria. I run a company with with my long-term work colleague, specialized in creating digital experiences for our clients. Over the past 15 years, I've worked on a variety of projects using PHP, MySQL, Laravel, WordPress, and more - some of which were among the largest in my country!
 
-Right now I'm enjoying JavaScript and Frontend Development (React / Next.js).
+Right now, I'm focusing on frontend development with TypeScript, React, Next.js, and Tailwind CSS.
+
+Thanks for checking out my profile, feel free to drop me a message!
 
 <img src="https://komarev.com/ghpvc/?username=ciruz&color=green" alt="Profile views" />
 
