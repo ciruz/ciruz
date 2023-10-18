@@ -9,4 +9,4 @@ Thanks for checking out my profile, feel free to drop me a message!
 <img src="https://komarev.com/ghpvc/?username=ciruz&color=green" alt="Profile views" />
 
 <h3>GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=ciruz&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciruz&size_weight=0&count_weight=1&layout=compact" />
+<img src="https://github-readme-stats-dusky-xi-40.vercel.app/api?username=ciruz&count_private=true" /> <img src="https://github-readme-stats-dusky-xi-40.vercel.app/api/top-langs/?username=ciruz&size_weight=0&count_weight=1&layout=compact" />
