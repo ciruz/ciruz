@@ -1,6 +1,6 @@
 <h3>Hey there, I'm Tom 👋</h3>
 
-a software developer from Austria. I run a company with with my long-term work colleague, specialized in creating digital experiences for our clients. Over the past 15 years, I've worked on a variety of projects using PHP, MySQL, Laravel, WordPress, and more - some of which were among the largest in my country!
+a software developer from Austria. I run a company with with my long-term work colleague, specialized in creating digital experiences for our clients. Over the past 15+ years, I've worked on a variety of projects using PHP, MySQL, Laravel, WordPress, and more - some of which were among the largest in my country!
 
 Right now, I'm focusing on frontend development with TypeScript, React, Next.js, and Tailwind CSS.
 
