@@ -14,4 +14,4 @@ Feel free to reach out, I'm always happy to connect!
 
 <h3>GitHub Stats</h3>
 <img src="https://github-readme-stats-dusky-xi-40.vercel.app/api?username=ciruz&count_private=true" />
-<img src="https://github-readme-stats-dusky-xi-40.vercel.app/api/top-langs/?username=ciruz&size_weight=0&count_weight=1&layout=compact" />
+<img src="https://github-readme-stats-dusky-xi-40.vercel.app/api/top-langs/?username=ciruz&size_weight=0&count_weight=1&layout=compact&hide=blade" />
